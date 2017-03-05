@@ -1,0 +1,22 @@
+{
+  "name": "ci-blog",
+  "version": "1.0.0",
+  "description": "CI based app using semantic-ui@2.2.9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudogem/ci-blog.git"
+  },
+  "author": "Arman Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudogem/ci-blog/issues"
+  },
+  "homepage": "https://github.com/sudogem/ci-blog#readme",
+  "dependencies": {
+    "semantic-ui": "^2.2.9"
+  }
+}
