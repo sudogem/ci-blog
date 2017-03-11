@@ -6,3 +6,8 @@ $ cd ci-blog/
 $ npm install    
 $ cd semantic/    
 $ gulp build    
+
+
+#### Technology stacks:
+* Codeigniter 3.1.3    
+* Codeigniter-HMVC (https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc)    
