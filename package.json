@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sudogem/ci-blog#readme",
   "dependencies": {
-    "semantic-ui": "^2.2.9"
+    "semantic-ui": "^2.2.10"
   }
 }
